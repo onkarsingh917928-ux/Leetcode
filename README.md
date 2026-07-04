@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
