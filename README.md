@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0264-ugly-number-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0264-ugly-number-ii) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0282-expression-add-operators](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
