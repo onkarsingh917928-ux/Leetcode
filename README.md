@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Tree
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0338-counting-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
