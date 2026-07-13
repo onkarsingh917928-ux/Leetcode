@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0043-multiply-strings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0263-ugly-number) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
