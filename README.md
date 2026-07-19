@@ -110,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
