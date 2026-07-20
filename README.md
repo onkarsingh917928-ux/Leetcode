@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0216-combination-sum-iii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -125,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
