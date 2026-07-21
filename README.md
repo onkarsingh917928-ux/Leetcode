@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0079-word-search) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0264-ugly-number-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0338-counting-bits) |
 ## Heap (Priority Queue)
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -126,6 +129,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
