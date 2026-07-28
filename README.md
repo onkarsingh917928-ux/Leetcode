@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0282-expression-add-operators) |
+| [0541-reverse-string-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0541-reverse-string-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0541-reverse-string-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0541-reverse-string-ii) |
 ## Greedy
 |  |
 | ------- |
