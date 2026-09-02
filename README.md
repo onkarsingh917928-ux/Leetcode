@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0342-power-of-four) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
