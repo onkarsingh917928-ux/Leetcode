@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0463-island-perimeter) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
 | ------- |
