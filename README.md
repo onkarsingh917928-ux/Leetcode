@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1920-build-array-from-permutation](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2104-sum-of-subarray-ranges](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [3483-unique-3-digit-even-numbers](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3483-unique-3-digit-even-numbers](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Queue
 |  |
