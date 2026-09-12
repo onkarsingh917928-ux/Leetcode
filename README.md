@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0078-subsets) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0264-ugly-number-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
