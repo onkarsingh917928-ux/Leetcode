@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0735-asteroid-collision) |
 | [0821-shortest-distance-to-a-character](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0835-image-overlap](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0463-island-perimeter](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0463-island-perimeter) |
+| [0835-image-overlap](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0835-image-overlap) |
 ## Math
 |  |
 | ------- |
