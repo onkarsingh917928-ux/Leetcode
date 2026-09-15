@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0216-combination-sum-iii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0860-lemonade-change) |
