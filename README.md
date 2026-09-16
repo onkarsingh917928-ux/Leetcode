@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0860-lemonade-change) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0561-array-partition) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
