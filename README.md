@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3870-count-commas-in-range](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Linked List
 |  |
 | ------- |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
