@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Depth-First Search
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0860-lemonade-change) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0561-array-partition) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting Sort
 |  |
