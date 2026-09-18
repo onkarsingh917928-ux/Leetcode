@@ -1,61 +1,32 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-
-    class Pair{
-        TreeNode node;
-        int state;
-
-        Pair(TreeNode node, int state) {
-            this.node = node;
-            this.state = state;
-        }
-    }
     public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> pre = new ArrayList<>();
-        
 
-        if(root == null) {
+        List<Integer> pre = new ArrayList<>();
+
+        if (root == null) {
             return pre;
         }
 
-        Stack<Pair> st = new Stack<Pair>();
-        st.push(new Pair(root,1));
+        Stack<TreeNode> st = new Stack<>();
+        st.push(root);
 
-        while(!st.isEmpty()) {
-            Pair it = st.pop();
+        while (!st.isEmpty()) {
 
-            if(it.state == 1) {
-                pre.add(it.node.val);
-                it.state++;
-                st.push(it);
+            TreeNode node = st.pop();
 
-                if(it.node.left != null) {
-                    st.push(new Pair(it.node.left, 1));
-                }
+            pre.add(node.val);
+
+            // Right first
+            if (node.right != null) {
+                st.push(node.right);
             }
-            else if(it.state == 2) {
-                it.state++;
-                st.push(it);
 
-                if(it.node.right != null) {
-                    st.push(new Pair(it.node.right , 1));
-                }
+            // Left second
+            if (node.left != null) {
+                st.push(node.left);
             }
         }
+
         return pre;
     }
 }
