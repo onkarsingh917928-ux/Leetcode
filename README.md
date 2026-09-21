@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0119-pascals-triangle-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0119-pascals-triangle-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0264-ugly-number-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0392-is-subsequence) |
