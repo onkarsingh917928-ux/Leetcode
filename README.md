@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0463-island-perimeter](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0463-island-perimeter) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1920-build-array-from-permutation) |
