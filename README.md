@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1920-build-array-from-permutation](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2104-sum-of-subarray-ranges](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Interactive
 |  |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Linked List
 |  |
 | ------- |
