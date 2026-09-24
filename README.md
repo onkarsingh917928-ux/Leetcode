@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0087-scramble-string) |
 | [0282-expression-add-operators](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0306-additive-number) |
 | [0392-is-subsequence](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0392-is-subsequence) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0087-scramble-string) |
 | [0119-pascals-triangle-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0264-ugly-number-ii) |
