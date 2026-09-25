@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0306-additive-number) |
+| [1096-brace-expansion-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [1096-brace-expansion-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0463-island-perimeter) |
+| [1096-brace-expansion-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1096-brace-expansion-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -323,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0561-array-partition) |
+| [1096-brace-expansion-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting Sort
