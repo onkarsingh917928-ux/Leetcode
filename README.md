@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1096-brace-expansion-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0463-island-perimeter) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -328,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0561-array-partition) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
