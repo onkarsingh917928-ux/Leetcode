@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1096-brace-expansion-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1096-brace-expansion-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Geometry
 |  |
 | ------- |
