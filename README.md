@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0079-word-search) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0079-word-search) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0055-jump-game) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
