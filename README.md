@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1096-brace-expansion-ii](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0087-scramble-string) |
 | [0282-expression-add-operators](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0306-additive-number) |
 | [0392-is-subsequence](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/onkarsingh917928-ux/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
